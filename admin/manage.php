@@ -10,8 +10,6 @@
 </head>
 <body>
 
-<h1></h1>
-
 
 <div class="menu ">
     <div class="wrapper">
@@ -31,7 +29,7 @@
 <div class="main-content">
     <div class="wrapper">
 
-            <h1>DASHBOARD</h1>
+            <h2>DASHBOARD</h2>
 
             <div class="col-4 text-center">
                 <h1>5</h1>

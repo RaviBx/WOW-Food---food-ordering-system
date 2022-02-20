@@ -7,7 +7,6 @@
 
 .wrapper{
 
-    border: 1px solid black;
     padding: 1%;
     width: 80%;
     margin: 0 auto;
@@ -28,6 +27,7 @@
 .menu{
 
     text-align: center;
+    border-bottom: 1px solid grey;
 }
 
 .menu ul{
@@ -51,4 +51,26 @@
 .menu ul li a:hover{
 
     color: #ff4757;
+}
+
+
+.main-content{
+
+    background-color: #f1f2f6;
+    padding: 3% 0;
+}
+
+.col-4{
+
+    width: 16%;
+    background-color: white;
+    margin: 2%;
+    padding: 2%;
+    float: left;
+
+}
+
+.clearfix{
+    float: none;
+    clear: both;
 }
